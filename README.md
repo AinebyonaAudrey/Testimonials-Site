@@ -9,22 +9,15 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout for the site depending on their device's screen size
-
+Users should be able to view the optimal layout for the site depending on their device's screen size
 
 ### Links
 - Live Site URL: https://ainebyonaaudrey.github.io/Testimonials-Site/
 
 ### Built With
 
-- Semantic HTML5 markup
+- HTML5 markup
+- SCSS (preprocessor for CSS)
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-
-
-
-
-free to delete this section entirely.**
