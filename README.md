@@ -1,6 +1,6 @@
 # Frontend Mentor - Testimonials grid section solution
 
-This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help improve your coding skills building realistic projects. 
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help improve coding skills by building realistic projects. 
 
 ## Table of contents
 - [The challenge](#the-challenge)
@@ -15,7 +15,7 @@ Users should be able to:
 
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://ainebyonaaudrey.github.io/Testimonials-Site/
 
 ### Built With
 
